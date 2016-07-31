@@ -4,7 +4,7 @@
               <li><a href="">About</a></li>
               <li><a href="">Contact us</a></li>
               <li><a href="">Subscribe</a></li>
-              <li><a href="login.php">Login</a></li>
+              <li><a href="">Blog</a></li>
             </ul>
           </div>
           <?php include('socialplugings.php'); ?>
