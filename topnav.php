@@ -1,10 +1,10 @@
 <div class="top_menu floatleft">
             <ul>
-              <li><a href="">Home</a></li>
-              <li><a href="">About</a></li>
-              <li><a href="">Contact us</a></li>
-              <li><a href="">Subscribe</a></li>
-              <li><a href="">Blog</a></li>
+              <li><a href="">होमपेज</a></li>
+              <li><a href="">बारेमा</a></li>
+              <li><a href="">हामीलाई सम्पर्क गर्नुहोस</a></li>
+              <li><a href="">सदस्यता</a></li>
+              <li><a href="">ब्लग</a></li>
             </ul>
           </div>
           <?php include('socialplugings.php'); ?>

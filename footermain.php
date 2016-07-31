@@ -1,14 +1,14 @@
 <div class="footer_menu">
             <ul id="f_menu">
-              <li><a href="">International</a></li>
-              <li><a href="">sports</a></li>
-              <li><a href="">Technology</a></li>
-              <li><a href="">Business</a></li>
-              <li><a href="">Social</a></li>
-              <li><a href="">Political</a></li>
-              <li><a href="">culture</a></li>
-              <li><a href="">Books</a></li>
-              <li><a href="">classifieds</a></li>
+              <li><a href="">अन्तर्राष्ट्रिय</a></li>
+              <li><a href="">खेल</a></li>
+              <li><a href="">्प्रविधि</a></li>
+              <li><a href="">व्यापार</a></li>
+              <li><a href="">सामाजिक</a></li>
+              <li><a href="">राजनीतिक</a></li>
+              <li><a href="">संस्कृति</a></li>
+              <li><a href="">पुस्तक</a></li>
+              <li><a href="">क्लासिफाइड</a></li>
             </ul>
           </div>
           <div class="copyright_text">
