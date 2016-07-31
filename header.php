@@ -11,28 +11,29 @@
 
 -->
   <head>
-    <title>The News Reporter</title>
+    <title>Dainiki Khabar</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <div id="google_translate_element">
+            </div>
+            <script type="text/javascript">
+            $.cookie("googtrans", "en/np/");
+            function googleTranslateElementInit() {
+            new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+            }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+            <script type="text/javascript" 
+                src="http://www.google.com/jsapi"></script>
     <!-- Font Awesome -->
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="font/bebas/stylesheet.css">
     <link href="style.css" rel="stylesheet" media="screen"> 
     <link href="responsive.css" rel="stylesheet" media="screen">    
     <link href="css/jquery.bxslider.css" rel="stylesheet" media="screen"> 
-<div id="google_translate_element" style="display:none; ">
-</div>
-<script type="text/javascript">
-$.cookie("googtrans", "en/np/");
-function googleTranslateElementInit() {
-new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
-}
-</script>
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-    <script type="text/javascript" 
-        src="http://www.google.com/jsapi"></script>
+
 <script type="text/javascript">
  // Initialize version 1.0 of Google AJAX API
  google.load("language", "1");
