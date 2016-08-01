@@ -6,7 +6,7 @@
       <div class="center">
         <div class="header_area">
           <div class="logo floatleft">
-            <a href="#"> <img src="images/logo1.png" alt="logo" /> </a>
+            <a href="#"> <img src="images/logo.png" alt="logo" /> </a>
           </div>
       <?php include('topnav.php'); ?>
         <div class="main_menu_area">

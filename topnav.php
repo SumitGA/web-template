@@ -4,8 +4,7 @@
               <li><a href="">बारेमा</a></li>
               <li><a href="">हामीलाई सम्पर्क गर्नुहोस</a></li>
               <li><a href="">सदस्यता</a></li>
-              <li><a href="">ब्लग</a></li>
-            </ul>
+             </ul>
           </div>
           <?php include('socialplugings.php'); ?>
             <div class="search">

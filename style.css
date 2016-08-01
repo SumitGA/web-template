@@ -52,7 +52,7 @@ margin-top: 60px;
 width: 330px;}
 .top_menu ul {
     list-style: none outside none;
-    margin: 0;
+    margin: auto;
     padding: 0;
 }
 .top_menu ul li {
@@ -65,7 +65,7 @@ color: #CF0000;
 display: block;
 font-size: 12px;
 padding: 0 11px;
-line-height: 12px;
+line-height: 20px;
 }
 .top_menu ul li a:hover{text-decoration:underline;}
 .social_plus_search{margin-bottom: 20px;}
@@ -218,7 +218,7 @@ margin-top: 0;}
 .footer_top_area{border-bottom: 1px dotted #000000;border-top: 1px dotted #000000;padding: 20px 0;width: 940px;}
 .inner_footer_top{width: 730px;margin: 0 auto;}
 .footer_bottom_area{margin-top: 15px;}
-.footer_menu{margin-bottom: 20px;}
+.footer_menu{margin-bottom: 20px;line-height:20px;}
 .footer_menu ul{margin:0;padding:0;list-style:none;}
 .footer_menu ul li{border-right: 1px solid #000000;display: inline;}
 .footer_menu ul li:last-child{border-right:none;}

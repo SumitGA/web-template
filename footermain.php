@@ -9,6 +9,7 @@
               <li><a href="">संस्कृति</a></li>
               <li><a href="">पुस्तक</a></li>
               <li><a href="">क्लासिफाइड</a></li>
+              <li><a href="">ब्लग</a></li>
             </ul>
           </div>
           <div class="copyright_text">
